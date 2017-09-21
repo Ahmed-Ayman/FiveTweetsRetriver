@@ -11,8 +11,17 @@ this project includes the following :
 
 ## about
 
-Five tweets Retriever is a simple webpage that allows you get the latest five latest tweets according to some valid twitter User name.. currentyl its implemented completely in JS with the support of codebird-js library to authenticate with Twitter's API.
+Five tweets Retriever is a simple webpage that allows you get the latest five tweets according to some valid twitter User name.. currentyl its implemented completely in JS with the support of codebird-js library to authenticate with Twitter's REST api.
 
+but soon I will do the complete web app using expressJS .. you can check out the json retriver above.
+
+here are some shorcuts from the web page.
+![an awesome image](https://github.com/Ahmed-Ayman/FiveTweetsRetriver/blob/master/images/1.png?raw=true)
+
+
+![an awesome image](https://github.com/Ahmed-Ayman/FiveTweetsRetriver/blob/master/images/2.png?raw=true)
+
+![an awesome image](https://github.com/Ahmed-Ayman/FiveTweetsRetriver/blob/master/images/3.png?raw=true)
 
 ## installation Guide.
 
@@ -28,6 +37,6 @@ open the index.html file in your browser then you will see a search icon..click 
 
 now you are supposed to see the latest five tweets of the username or an error message says that the user isnt found or there's no tweets yet.
 ## License  
-GPL-3.0+.
+[GPL-3.0+](https://github.com/Ahmed-Ayman/FiveTweetsRetriver/blob/master/LICENSE.txt).
 
 IMPORTANT NOTE : I have left my twitter api authentication cardentials just to make it easier for the code reviewer to check out my work... I will delete it after a couple of days though.
