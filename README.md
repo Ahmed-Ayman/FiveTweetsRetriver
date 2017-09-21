@@ -39,4 +39,5 @@ now you are supposed to see the latest five tweets of the username or an error m
 ## License  
 [GPL-3.0+](https://github.com/Ahmed-Ayman/FiveTweetsRetriver/blob/master/LICENSE.txt).
 
-IMPORTANT NOTE : I have left my twitter api authentication cardentials just to make it easier for the code reviewer to check out my work... I will delete it after a couple of days though.
+### IMPORTANT NOTE :
+I have left my twitter api authentication cardentials just to make it easier for the code reviewer to check out my work... I will delete it after a couple of days though.
