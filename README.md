@@ -36,6 +36,19 @@ actually, all you need to do is downloading the repository .. you can do it by t
 open the index.html file in your browser then you will see a search icon..click it and type your twitter userName and  click Enter or Escape or on the Close button above right or by touching the screen anywhere.
 
 now you are supposed to see the latest five tweets of the username or an error message says that the user isnt found or there's no tweets yet.
+
+if you are curious about using the JsonRetriver that is written in nodeJS.
+all you need to do is :
+
+1. go to the project folder and download Express and Twitter modules using this commend `npm install twitter express`
+2. open the terminal , navigate to the project folder and type `node tweetsJson.js`
+
+then you will get a message telling you that the server is working under port 9999.
+3. open your browser and go to `localhost:9999/twitter/screenName`
+where schreenName =  twitter's user_id eg, @username.
+
+now you will see the 5 tweets in a json format.
+
 ## License  
 [GPL-3.0+](https://github.com/Ahmed-Ayman/FiveTweetsRetriver/blob/master/LICENSE.txt).
 
