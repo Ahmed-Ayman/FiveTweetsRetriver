@@ -18,7 +18,7 @@ Five tweets Retriever is a simple webpage that allows you get the latest five la
 
 actually, all you need to do is downloading the repository .. you can do it by the following :
 
-1. in the Command line type `git clone <repository_name>`.
+1. in the Command line type `git clone https://github.com/Ahmed-Ayman/FiveTweetsRetriver.git`.
 2. if the first way didnt work then you will have to download git from [from here](https://git-scm.com/), but don't worry for now ..you could just click the Clone or Download button above then download the Zip file.
 
 
