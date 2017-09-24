@@ -7,7 +7,7 @@ this project includes the following :
 
 1. [JSON Retriever](https://github.com/Ahmed-Ayman/FiveTweetsRetriver/blob/master/tweetsJson.js) file made using expressJS  (to be used soon).
 2. the main project made using Jquery ajax and [codebird-js](https://github.com/jublonet/codebird-js
-)...you can see a demo [right here](ahmed-ayman.github.io/GetTwitter)
+)...you can see a demo [right here](https://ahmed-ayman.github.io/GetTwitter)
 
 ## about
 
